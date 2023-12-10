@@ -1,0 +1,72 @@
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.csproj.AssemblyReference.cache
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.AssemblyInfoInputs.cache
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.AssemblyInfo.cs
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.csproj.CoreCompileInputs.cache
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\appsettings.json
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\data.json
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\TaskAPI.exe
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\TaskAPI.deps.json
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\TaskAPI.runtimeconfig.json
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\TaskAPI.dll
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\TaskAPI.pdb
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\TaskRepository.dll
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\TaskServices.dll
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\TaskRepository.pdb
+C:\Users\Umair Hassan\source\repos\Task\Task\bin\Debug\net8.0\TaskServices.pdb
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.TaskAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskAPI.props
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskAPI.props
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskAPI.props
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\scopedcss\bundle\TaskAPI.styles.css
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.csproj.CopyComplete
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.dll
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\refint\TaskAPI.dll
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.pdb
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.genruntimeconfig.cache
+C:\Users\Umair Hassan\source\repos\Task\Task\obj\Debug\net8.0\ref\TaskAPI.dll
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\appsettings.json
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\data.json
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\TaskAPI.exe
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\TaskAPI.deps.json
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\TaskAPI.runtimeconfig.json
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\TaskAPI.dll
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\TaskAPI.pdb
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\TaskRepository.dll
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\TaskServices.dll
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\TaskRepository.pdb
+C:\Users\tariq\source\repos\Task\Task\bin\Debug\net8.0\TaskServices.pdb
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.csproj.AssemblyReference.cache
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.AssemblyInfoInputs.cache
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.AssemblyInfo.cs
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.csproj.CoreCompileInputs.cache
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.TaskAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskAPI.props
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskAPI.props
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskAPI.props
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\scopedcss\bundle\TaskAPI.styles.css
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.csproj.CopyComplete
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.dll
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\refint\TaskAPI.dll
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.pdb
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\TaskAPI.genruntimeconfig.cache
+C:\Users\tariq\source\repos\Task\Task\obj\Debug\net8.0\ref\TaskAPI.dll

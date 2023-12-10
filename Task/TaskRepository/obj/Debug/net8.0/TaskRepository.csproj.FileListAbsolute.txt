@@ -1,0 +1,24 @@
+C:\Users\Umair Hassan\source\repos\Task\TaskRepository\bin\Debug\net8.0\TaskRepository.deps.json
+C:\Users\Umair Hassan\source\repos\Task\TaskRepository\bin\Debug\net8.0\TaskRepository.dll
+C:\Users\Umair Hassan\source\repos\Task\TaskRepository\bin\Debug\net8.0\TaskRepository.pdb
+C:\Users\Umair Hassan\source\repos\Task\TaskRepository\obj\Debug\net8.0\TaskRepository.csproj.AssemblyReference.cache
+C:\Users\Umair Hassan\source\repos\Task\TaskRepository\obj\Debug\net8.0\TaskRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umair Hassan\source\repos\Task\TaskRepository\obj\Debug\net8.0\TaskRepository.AssemblyInfoInputs.cache
+C:\Users\Umair Hassan\source\repos\Task\TaskRepository\obj\Debug\net8.0\TaskRepository.AssemblyInfo.cs
+C:\Users\Umair Hassan\source\repos\Task\TaskRepository\obj\Debug\net8.0\TaskRepository.csproj.CoreCompileInputs.cache
+C:\Users\Umair Hassan\source\repos\Task\TaskRepository\obj\Debug\net8.0\TaskRepository.dll
+C:\Users\Umair Hassan\source\repos\Task\TaskRepository\obj\Debug\net8.0\refint\TaskRepository.dll
+C:\Users\Umair Hassan\source\repos\Task\TaskRepository\obj\Debug\net8.0\TaskRepository.pdb
+C:\Users\Umair Hassan\source\repos\Task\TaskRepository\obj\Debug\net8.0\ref\TaskRepository.dll
+C:\Users\tariq\source\repos\Task\TaskRepository\bin\Debug\net8.0\TaskRepository.deps.json
+C:\Users\tariq\source\repos\Task\TaskRepository\bin\Debug\net8.0\TaskRepository.dll
+C:\Users\tariq\source\repos\Task\TaskRepository\bin\Debug\net8.0\TaskRepository.pdb
+C:\Users\tariq\source\repos\Task\TaskRepository\obj\Debug\net8.0\TaskRepository.csproj.AssemblyReference.cache
+C:\Users\tariq\source\repos\Task\TaskRepository\obj\Debug\net8.0\TaskRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tariq\source\repos\Task\TaskRepository\obj\Debug\net8.0\TaskRepository.AssemblyInfoInputs.cache
+C:\Users\tariq\source\repos\Task\TaskRepository\obj\Debug\net8.0\TaskRepository.AssemblyInfo.cs
+C:\Users\tariq\source\repos\Task\TaskRepository\obj\Debug\net8.0\TaskRepository.csproj.CoreCompileInputs.cache
+C:\Users\tariq\source\repos\Task\TaskRepository\obj\Debug\net8.0\TaskRepository.dll
+C:\Users\tariq\source\repos\Task\TaskRepository\obj\Debug\net8.0\refint\TaskRepository.dll
+C:\Users\tariq\source\repos\Task\TaskRepository\obj\Debug\net8.0\TaskRepository.pdb
+C:\Users\tariq\source\repos\Task\TaskRepository\obj\Debug\net8.0\ref\TaskRepository.dll

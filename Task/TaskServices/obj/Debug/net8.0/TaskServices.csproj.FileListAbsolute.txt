@@ -1,0 +1,30 @@
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\bin\Debug\net8.0\TaskServices.deps.json
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\bin\Debug\net8.0\TaskServices.dll
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\bin\Debug\net8.0\TaskServices.pdb
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\bin\Debug\net8.0\TaskRepository.dll
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\bin\Debug\net8.0\TaskRepository.pdb
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.csproj.AssemblyReference.cache
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.AssemblyInfoInputs.cache
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.AssemblyInfo.cs
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.csproj.CoreCompileInputs.cache
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.csproj.CopyComplete
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.dll
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\obj\Debug\net8.0\refint\TaskServices.dll
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.pdb
+C:\Users\Umair Hassan\source\repos\Task\TaskServices\obj\Debug\net8.0\ref\TaskServices.dll
+C:\Users\tariq\source\repos\Task\TaskServices\bin\Debug\net8.0\TaskServices.deps.json
+C:\Users\tariq\source\repos\Task\TaskServices\bin\Debug\net8.0\TaskServices.dll
+C:\Users\tariq\source\repos\Task\TaskServices\bin\Debug\net8.0\TaskServices.pdb
+C:\Users\tariq\source\repos\Task\TaskServices\bin\Debug\net8.0\TaskRepository.dll
+C:\Users\tariq\source\repos\Task\TaskServices\bin\Debug\net8.0\TaskRepository.pdb
+C:\Users\tariq\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.csproj.AssemblyReference.cache
+C:\Users\tariq\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tariq\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.AssemblyInfoInputs.cache
+C:\Users\tariq\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.AssemblyInfo.cs
+C:\Users\tariq\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.csproj.CoreCompileInputs.cache
+C:\Users\tariq\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.csproj.CopyComplete
+C:\Users\tariq\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.dll
+C:\Users\tariq\source\repos\Task\TaskServices\obj\Debug\net8.0\refint\TaskServices.dll
+C:\Users\tariq\source\repos\Task\TaskServices\obj\Debug\net8.0\TaskServices.pdb
+C:\Users\tariq\source\repos\Task\TaskServices\obj\Debug\net8.0\ref\TaskServices.dll
