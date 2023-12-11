@@ -2,15 +2,11 @@
 Clone the Repository:
 * git clone https://github.com/Tariq78668/M-lnlycke-Test.git
 
-Open Visual Studio:
-Navigate to the project directory
-Open the Visual Studio solution file:
-start task.sln
-
 Run the Solution:
+* Navigate to the project directory Task
+* Open the Visual Studio solution file: start task.sln
 * Build and run the solution in Visual Studio.
 * Open Task Frontend in Visual Studio Code or Visual Studio
-* Navigate to the task-frontend folder: cd task-frontend
   
 Install Dependencies:
 * In Visual Studio Code or Visual Studio terminal, run:
